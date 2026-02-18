@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01 - Classes &amp; Objects - Classes &amp; Objects/01 - Classes &amp; Objects - Classes &amp; Objects.vcxproj" />
+  <Project Path="02 - Classes &amp; Objects - Class Members/02 - Classes &amp; Objects - Class Members.vcxproj" />
+  <Project Path="03 - Classes &amp; Objects - Objects In Memory/03 - Classes &amp; Objects - Objects In Memory.vcxproj" />
+  <Project Path="04 - Access Modifiers/04 - Access Modifiers.vcxproj" />
+  <Project Path="05 - Properties - Properties Set and Get/05 - Properties - Properties Set and Get.vcxproj" />
+  <Project Path="06 - Properties - Read Only Property/06 - Properties - Read Only Property.vcxproj" />
+  <Project Path="07 - Properties - Properties Set and Get through =/07 - Properties - Properties Set and Get through =.vcxproj" />
+  <Project Path="08 - First Principle - Encapsulation/08 - First Principle - Encapsulation.vcxproj" />
+  <Project Path="09 - Second Principle - Abstraction/09 - Second Principle - Abstraction.vcxproj" />
+</Solution>

@@ -1,0 +1,1 @@
+//Abstraction is exposing only the essential features of an object while hiding the implementation details.
