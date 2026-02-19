@@ -16,4 +16,8 @@
   <Project Path="11 - Constructors/11 - Constructors.vcxproj" Id="f0136bdb-ddbd-447c-b56e-e52dad62a457" />
   <Project Path="12 - Copy Constructor/12 - Copy Constructor.vcxproj" Id="06fed5e5-df06-4c4f-a4c1-d9de7feed82c" />
   <Project Path="13 - Destructors/13 - Destructors.vcxproj" Id="7ae972f3-5b43-44d6-82f1-ab345461852d" />
+  <Project Path="14 - Static Members/14 - Static Members.vcxproj" Id="86e6920d-9937-4800-8c07-d0b8a3a392e3" />
+  <Project Path="15 - Static Methods/15 - Static Methods.vcxproj" Id="65b4f251-5557-4947-821f-12868cc112e1" />
+  <Project Path="16 - Person Exercise/16 - Person Exercise.vcxproj" Id="858e7f94-4059-4130-afdd-c8ad064d86a8" />
+  <Project Path="17 - Employee Exercise/17 - Employee Exercise.vcxproj" Id="f3adc01f-a5bd-4068-9bd2-eb517e5941c5" />
 </Solution>
