@@ -3,13 +3,17 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01 - Classes &amp; Objects - Classes &amp; Objects/01 - Classes &amp; Objects - Classes &amp; Objects.vcxproj" />
-  <Project Path="02 - Classes &amp; Objects - Class Members/02 - Classes &amp; Objects - Class Members.vcxproj" />
-  <Project Path="03 - Classes &amp; Objects - Objects In Memory/03 - Classes &amp; Objects - Objects In Memory.vcxproj" />
-  <Project Path="04 - Access Modifiers/04 - Access Modifiers.vcxproj" />
-  <Project Path="05 - Properties - Properties Set and Get/05 - Properties - Properties Set and Get.vcxproj" />
-  <Project Path="06 - Properties - Read Only Property/06 - Properties - Read Only Property.vcxproj" />
-  <Project Path="07 - Properties - Properties Set and Get through =/07 - Properties - Properties Set and Get through =.vcxproj" />
-  <Project Path="08 - First Principle - Encapsulation/08 - First Principle - Encapsulation.vcxproj" />
-  <Project Path="09 - Second Principle - Abstraction/09 - Second Principle - Abstraction.vcxproj" />
+  <Project Path="01 - Classes &amp; Objects - Classes &amp; Objects/01 - Classes &amp; Objects - Classes &amp; Objects.vcxproj" Id="0d2f668b-aa34-46f3-b583-4cf5ba27dab1" />
+  <Project Path="02 - Classes &amp; Objects - Class Members/02 - Classes &amp; Objects - Class Members.vcxproj" Id="a7c8c0a9-0a5f-4078-ac03-7abd33338387" />
+  <Project Path="03 - Classes &amp; Objects - Objects In Memory/03 - Classes &amp; Objects - Objects In Memory.vcxproj" Id="f89a2abc-da20-4394-8b9f-fd32e58c9d69" />
+  <Project Path="04 - Access Modifiers/04 - Access Modifiers.vcxproj" Id="53a23f0f-7b19-4eb1-96eb-b498c4eb70f8" />
+  <Project Path="05 - Properties - Properties Set and Get/05 - Properties - Properties Set and Get.vcxproj" Id="29fa661c-0cdd-4c6f-8d23-440b1ede4519" />
+  <Project Path="06 - Properties - Read Only Property/06 - Properties - Read Only Property.vcxproj" Id="1302a1be-49de-4160-a73e-1cbf954f8581" />
+  <Project Path="07 - Properties - Properties Set and Get through =/07 - Properties - Properties Set and Get through =.vcxproj" Id="a27f1782-2fd5-4456-9302-7c807ff199e6" />
+  <Project Path="08 - First Principle - Encapsulation/08 - First Principle - Encapsulation.vcxproj" Id="03b9ca76-7b46-42f3-8b8c-9721cce90896" />
+  <Project Path="09 - Second Principle - Abstraction/09 - Second Principle - Abstraction.vcxproj" Id="c34d5db6-a7f4-42e3-a3bc-735a1dc890bc" />
+  <Project Path="10 - Project#1 - Calculator/10 - Project#1 - Calculator.vcxproj" Id="441ca7ee-efd0-43c6-94d2-a949d16f050a" />
+  <Project Path="11 - Constructors/11 - Constructors.vcxproj" Id="f0136bdb-ddbd-447c-b56e-e52dad62a457" />
+  <Project Path="12 - Copy Constructor/12 - Copy Constructor.vcxproj" Id="06fed5e5-df06-4c4f-a4c1-d9de7feed82c" />
+  <Project Path="13 - Destructors/13 - Destructors.vcxproj" Id="7ae972f3-5b43-44d6-82f1-ab345461852d" />
 </Solution>
