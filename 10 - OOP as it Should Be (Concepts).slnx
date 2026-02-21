@@ -20,4 +20,7 @@
   <Project Path="15 - Static Methods/15 - Static Methods.vcxproj" Id="65b4f251-5557-4947-821f-12868cc112e1" />
   <Project Path="16 - Person Exercise/16 - Person Exercise.vcxproj" Id="858e7f94-4059-4130-afdd-c8ad064d86a8" />
   <Project Path="17 - Employee Exercise/17 - Employee Exercise.vcxproj" Id="f3adc01f-a5bd-4068-9bd2-eb517e5941c5" />
+  <Project Path="18 - Inheritance - Third Principle - Inheritance/18 - Inheritance - Third Principle - Inheritance.vcxproj" Id="28ef0292-6fcf-49f4-bfaf-b01be7d9fe5e" />
+  <Project Path="19 - Inheritance - Parameterized Constructor of the Base Class/19 - Inheritance - Parameterized Constructor of the Base Class.vcxproj" Id="4828cce0-72de-4369-9ca5-34a027f7614b" />
+  <Project Path="20 - Inheritance - Function Overriding/20 - Inheritance - Function Overriding.vcxproj" Id="45bf806d-b137-412c-a52b-7cb3ba4e438f" />
 </Solution>
