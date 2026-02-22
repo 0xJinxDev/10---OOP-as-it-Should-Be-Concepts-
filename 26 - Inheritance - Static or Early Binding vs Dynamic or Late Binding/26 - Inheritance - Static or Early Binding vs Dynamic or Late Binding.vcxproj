@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{45bf806d-b137-412c-a52b-7cb3ba4e438f}</ProjectGuid>
-    <RootNamespace>My20InheritanceFunctionOverriding</RootNamespace>
+    <ProjectGuid>{b9020f8a-90a0-425c-8640-94d38cae91d6}</ProjectGuid>
+    <RootNamespace>My26InheritanceStaticorEarlyBindingvsDynamicorLateBinding</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

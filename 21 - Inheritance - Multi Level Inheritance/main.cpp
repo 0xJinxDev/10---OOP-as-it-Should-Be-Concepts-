@@ -64,8 +64,8 @@ private:
 	float _Salary;
 
 public:
-	clsEmployee(const int ID, const string& FirstName, const string& LastName, const string& Email, const string& Phone,const string&Title,const string&Department, float Salary)
-		: clsPerson(ID, FirstName, LastName, Email, Phone),_Title(Title),_Department(Department),_Salary(Salary) {
+	clsEmployee(const int ID, const string& FirstName, const string& LastName, const string& Email, const string& Phone, const string& Title, const string& Department, float Salary)
+		: clsPerson(ID, FirstName, LastName, Email, Phone), _Title(Title), _Department(Department), _Salary(Salary) {
 
 	}
 	void setTitle(const string& Title) { _Title = Title; }
@@ -76,16 +76,47 @@ public:
 	string getDepartment() const { return _Department; }
 	float getSalary() const { return _Salary; }
 
+	void Print() {
 
+		clsPerson::Print();
+
+		cout << "Title: " << _Title << endl;
+		cout << "Department: " << _Department << endl;
+		cout << "Salary: " << _Salary << endl;
+	}
 
 };
 
+class clsDeveloper : public clsEmployee {
+
+private:
+	string _MainProgrammingLanguage;
+
+public:
+
+	clsDeveloper(const int ID, const string& FirstName, const string& LastName, const string& Email,
+		const string& Phone, const string& Title, const string& Department,
+		float Salary,const string& MainProgrammingLanguage): clsEmployee(ID,FirstName,LastName,Email,Phone,Title,Department,Salary),_MainProgrammingLanguage(MainProgrammingLanguage) {
+
+	}
+
+	void setMainProgrammingLanguage(const string& MainProgramminglanguage) {
+		_MainProgrammingLanguage = MainProgramminglanguage;
+	}
+	string getMainProgrammingLanguage() const { return _MainProgrammingLanguage; }
+
+	void Print() {
+
+		clsEmployee::Print();
+		cout << "Main Programming Language: " << _MainProgrammingLanguage << endl;
+	}
+};
 
 int main() {
 
-	clsEmployee Employee(1,"Jinx","Devs","Jinx@Jinx.Jinx","123456789","Software Engineer","IT",10000);
+	clsDeveloper Developer(1, "Jinx", "Devs", "Jinx@Jinx.Jinx", "123456789", "Software Engineer", "IT", 10000,"C++");
 
 
-
+	Developer.Print();
 	return 0;
 }

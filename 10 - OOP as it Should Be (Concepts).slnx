@@ -23,4 +23,12 @@
   <Project Path="18 - Inheritance - Third Principle - Inheritance/18 - Inheritance - Third Principle - Inheritance.vcxproj" Id="28ef0292-6fcf-49f4-bfaf-b01be7d9fe5e" />
   <Project Path="19 - Inheritance - Parameterized Constructor of the Base Class/19 - Inheritance - Parameterized Constructor of the Base Class.vcxproj" Id="4828cce0-72de-4369-9ca5-34a027f7614b" />
   <Project Path="20 - Inheritance - Function Overriding/20 - Inheritance - Function Overriding.vcxproj" Id="45bf806d-b137-412c-a52b-7cb3ba4e438f" />
+  <Project Path="21 - Inheritance - Multi Level Inheritance/21 - Inheritance - Multi Level Inheritance.vcxproj" Id="0117c245-aa4d-4500-b757-b88b16a131e3" />
+  <Project Path="22 - Inheritance - Inheritance Visibility Modes/22 - Inheritance - Inheritance Visibility Modes.vcxproj" Id="68504b27-008d-42ae-b3fe-3615c88946b9" />
+  <Project Path="23 - Inheritance - Inheritance Types/23 - Inheritance - Inheritance Types.vcxproj" Id="cec7f4e1-b405-44b5-8203-dea9ffccb802" />
+  <Project Path="24 - Inheritance - Up Casting/24 - Inheritance - Up Casting.vcxproj" Id="5a24b9f8-432f-47ef-8b32-94cd3a3394e7" />
+  <Project Path="25 - Inheritance - Virtual Methods/25 - Inheritance - Virtual Methods.vcxproj" Id="007d51c7-3680-4a3e-b890-71698cd1a850" />
+  <Project Path="26 - Inheritance - Static or Early Binding vs Dynamic or Late Binding/26 - Inheritance - Static or Early Binding vs Dynamic or Late Binding.vcxproj" Id="b9020f8a-90a0-425c-8640-94d38cae91d6" />
+  <Project Path="27 - Polymorphism - Fourth Principle - Polymorphism/27 - Polymorphism - Fourth Principle - Polymorphism.vcxproj" Id="111dcebc-6890-49db-9f05-2db73f5064b2" />
+  <Project Path="28 - Polymorphism - Interfaces - Pure Virtual Functions and Abstract Classes/28 - Polymorphism - Interfaces - Pure Virtual Functions and Abstract Classes.vcxproj" Id="191f9c8e-680f-4401-bbd0-7a20688a1eec" />
 </Solution>

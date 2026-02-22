@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{45bf806d-b137-412c-a52b-7cb3ba4e438f}</ProjectGuid>
-    <RootNamespace>My20InheritanceFunctionOverriding</RootNamespace>
+    <ProjectGuid>{cec7f4e1-b405-44b5-8203-dea9ffccb802}</ProjectGuid>
+    <RootNamespace>My23InheritanceInheritanceTypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
