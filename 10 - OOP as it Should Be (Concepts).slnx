@@ -31,4 +31,10 @@
   <Project Path="26 - Inheritance - Static or Early Binding vs Dynamic or Late Binding/26 - Inheritance - Static or Early Binding vs Dynamic or Late Binding.vcxproj" Id="b9020f8a-90a0-425c-8640-94d38cae91d6" />
   <Project Path="27 - Polymorphism - Fourth Principle - Polymorphism/27 - Polymorphism - Fourth Principle - Polymorphism.vcxproj" Id="111dcebc-6890-49db-9f05-2db73f5064b2" />
   <Project Path="28 - Polymorphism - Interfaces - Pure Virtual Functions and Abstract Classes/28 - Polymorphism - Interfaces - Pure Virtual Functions and Abstract Classes.vcxproj" Id="191f9c8e-680f-4401-bbd0-7a20688a1eec" />
+  <Project Path="29 - Friend Classes/29 - Friend Classes.vcxproj" Id="6cf3a234-b2aa-4a57-8b9d-9f7bb3b4252b" />
+  <Project Path="30 - Friend Functions/30 - Friend Functions.vcxproj" Id="d952f4a7-8432-44c7-a11e-5e5c1ef49a9f" />
+  <Project Path="31 - Structure Inside Class/31 - Structure Inside Class.vcxproj" Id="3ae462bb-e3fe-4017-9f92-94bc33f80a6e" />
+  <Project Path="32 - Nested Classes/32 - Nested Classes.vcxproj" Id="855365d8-43b9-4fef-ab2a-04f27072f3d6" />
+  <Project Path="33 - Nested Classes - Constructor Homework/33 - Nested Classes - Constructor Homework.vcxproj" Id="ec009bca-25be-4233-a91c-2a950829ef1c" />
+  <Project Path="34 - Separate Classes In Libraries/34 - Separate Classes In Libraries.vcxproj" Id="75817f7e-3bd4-4e29-ab3d-2d9846a0ad7d" />
 </Solution>
