@@ -37,4 +37,9 @@
   <Project Path="32 - Nested Classes/32 - Nested Classes.vcxproj" Id="855365d8-43b9-4fef-ab2a-04f27072f3d6" />
   <Project Path="33 - Nested Classes - Constructor Homework/33 - Nested Classes - Constructor Homework.vcxproj" Id="ec009bca-25be-4233-a91c-2a950829ef1c" />
   <Project Path="34 - Separate Classes In Libraries/34 - Separate Classes In Libraries.vcxproj" Id="75817f7e-3bd4-4e29-ab3d-2d9846a0ad7d" />
+  <Project Path="35 - 'This' Pointer/35 - 'This' Pointer.vcxproj" Id="cb81fe9b-ad3c-40cb-9ff5-ed4ca6df029e" />
+  <Project Path="36 - Passing Objects to Functions (ByRef - ByVal)/36 - Passing Objects to Functions (ByRef - ByVal).vcxproj" Id="bb7b7f70-5750-452c-9090-0098f374be0f" />
+  <Project Path="37 - Objects and Vectors/37 - Objects and Vectors.vcxproj" Id="64097316-3cc3-4111-b0cd-e1ba6d6ffe44" />
+  <Project Path="38 - Objects and Dynamic Arrays/38 - Objects and Dynamic Arrays.vcxproj" Id="9b197f17-aa27-4f88-aeb1-50233fc9f171" />
+  <Project Path="39 - Objects with Parameterized Constructor and Array/39 - Objects with Parameterized Constructor and Array.vcxproj" Id="5fdb9322-99a7-43c3-b6b4-ca6cd3cf8eb1" />
 </Solution>
