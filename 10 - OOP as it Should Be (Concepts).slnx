@@ -42,4 +42,6 @@
   <Project Path="37 - Objects and Vectors/37 - Objects and Vectors.vcxproj" Id="64097316-3cc3-4111-b0cd-e1ba6d6ffe44" />
   <Project Path="38 - Objects and Dynamic Arrays/38 - Objects and Dynamic Arrays.vcxproj" Id="9b197f17-aa27-4f88-aeb1-50233fc9f171" />
   <Project Path="39 - Objects with Parameterized Constructor and Array/39 - Objects with Parameterized Constructor and Array.vcxproj" Id="5fdb9322-99a7-43c3-b6b4-ca6cd3cf8eb1" />
+  <Project Path="40 - String Library Project/40 - String Library Project.vcxproj" Id="6dd39802-47c4-4001-a026-b9c2d815d467" />
+  <Project Path="41 - Date Library Project/41 - Date Library Project.vcxproj" Id="148f47af-a33d-4323-b499-71b3ac6f0583" />
 </Solution>
